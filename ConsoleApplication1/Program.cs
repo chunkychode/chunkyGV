@@ -11,11 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("asssssdrrrrsafffd");
-            ///asdsa
-            ////sadsdf
-            //asdasd
-            //sdfsdf
-            //yo
+            Console.WriteLine("th is on btancj b1");
         }
     }
 }
