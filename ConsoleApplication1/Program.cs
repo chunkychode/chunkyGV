@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("asssssdrrrrsafffd");
             Console.WriteLine("th is on btancj b1");
             Console.WriteLine("added com1");
+            Console.WriteLine("added com2");
         }
     }
 }
