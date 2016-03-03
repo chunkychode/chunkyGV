@@ -18,9 +18,9 @@ namespace ConsoleApplication1
             Console.WriteLine("added bom 2 on b2");
             Console.WriteLine("added bom 3 on b2");
             //on master2dcvbcvb
-            //should work nowdxvxcvxcvx
+            //should work nowdxvxcvxcvxsdfsdfsdf
             //on be23ed
-            //sdfsdfsdfs
+            //sdfsdfsdfssdflksdjfkl sdlfjsl;j
         }
     }
 }
