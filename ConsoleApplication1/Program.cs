@@ -18,8 +18,8 @@ namespace ConsoleApplication1
             Console.WriteLine("added bom 2 on b2");
             Console.WriteLine("added bom 3 on b2");
             //on master2dcvbcvb
-            //should work now
-            //on be23edsdfgdsfsdfsdf
+            //should work nowdxvxcvxcvx
+            //on be23ed
             //sdfsdfsdfs
         }
     }
