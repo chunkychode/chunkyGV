@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Class1
+    public class Class1
     {
+        public void ff()
+        {
+
+        }
     }
 }
