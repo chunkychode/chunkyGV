@@ -20,9 +20,9 @@ namespace ConsoleApplication1
             //on master2dcvbcvb
             //should work nowdxvxcvxcvxsdfsdfsdf
             //on be23ed
-            //sdfsdfsdfssdflksdjfkl sdlfjsl;j
+            //sdfsdfsdfssdflksdjfkl sdlfjsl;jgggggggggggggggggggggggggggg
             //aded feature 5dfgvdfgdfdf
-            //asdasdasdasdasdasdsa
+            //asdasdasdasdasdasdsafgdsfgdfg
         }
     }
 }
